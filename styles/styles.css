@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+}
+.main{
+    font-size: 5vh;
+    position: absolute;
+    left: 50%;
+    top: 1%;
+    transform: translate(-50%,0);
+}
